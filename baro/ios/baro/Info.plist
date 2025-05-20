@@ -48,5 +48,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSCameraUsageDescription</key>
+	<string>바코드와 QR코드를 스캔하기 위해 카메라 접근 권한이 필요합니다.</string>
 </dict>
 </plist>
