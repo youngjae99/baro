@@ -1,4 +1,9 @@
 {
   "name": "baro",
-  "displayName": "baro"
+  "displayName": "baro",
+  "extra": {
+    "eas": {
+      "projectId": "6b8856e5-eba7-41c1-86ca-080dca78b131"
+    }
+  }
 }

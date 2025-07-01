@@ -33,6 +33,19 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "BARO 앱이 상품 스캔을 위해 카메라를 사용합니다.",
+          "microphonePermission": false
+        }
+      ],
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "BARO 앱이 바코드 스캔을 위해 카메라를 사용합니다."
+        }
       ]
     ],
     "experiments": {
